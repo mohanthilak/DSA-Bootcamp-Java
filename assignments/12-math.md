@@ -12,9 +12,9 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) - Done
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) - Done
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Done
-- [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
-- [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) - Done
+- [Add Binary](https://leetcode.com/problems/add-binary/) - Done
+- [Power of Two](https://leetcode.com/problems/power-of-two/) - Done
 
 ## Medium
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
