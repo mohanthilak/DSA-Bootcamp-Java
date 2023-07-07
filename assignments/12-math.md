@@ -4,9 +4,9 @@
 - Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.
 
 ## Easy
-- [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
-- [Happy Number.](https://leetcode.com/problems/happy-number/)
-- [Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
+- [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/) - Done
+- [Happy Number.](https://leetcode.com/problems/happy-number/) - Done
+- [Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical) - Done
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
