@@ -17,8 +17,8 @@
 - [Power of Two](https://leetcode.com/problems/power-of-two/) - Done
 
 ## Medium
-- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
-- [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) - Done
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) - Done
 - [Gray Code](https://leetcode.com/problems/gray-code/)
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
