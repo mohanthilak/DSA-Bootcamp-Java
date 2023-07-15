@@ -1,7 +1,7 @@
 # [Video link](https://youtu.be/lmSpZ0bjCyQ)
 
 ## Problems
-- Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.
+- Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contain tags of topics we have covered so far.
 
 ## Easy
 - [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/) - Done
@@ -19,10 +19,10 @@
 ## Medium
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) - Done
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) - Done
-- [Gray Code](https://leetcode.com/problems/gray-code/)
-- [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
-- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-- [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+- [Gray Code](https://leetcode.com/problems/gray-code/) - Done
+- [Perfect Squares](https://leetcode.com/problems/perfect-squares/) - Done
+- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) - Done
+- [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) - Done
 - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 - [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
