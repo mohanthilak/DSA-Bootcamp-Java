@@ -25,11 +25,11 @@
 - [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) - Done
 - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - Done
 - [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) - Done 
-- [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
-- [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
-- [Integer Break](https://leetcode.com/problems/integer-break/)
+- [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) - Done
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Done
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/) - Done
+- [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) - Done
+- [Integer Break](https://leetcode.com/problems/integer-break/) -Done
 
 
 ## Hard
