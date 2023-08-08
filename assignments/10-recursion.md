@@ -15,14 +15,14 @@
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG` - Done
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG` 
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG` - Done
-- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG` - Done
+- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG` - Done
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG` - Done
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG` - Done
+- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG` - Done
+- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode` - Done
+- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode` - Done
+- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode` - Done
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
