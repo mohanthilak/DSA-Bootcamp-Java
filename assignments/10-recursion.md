@@ -30,20 +30,20 @@
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
 - [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
-- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
-- [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
-- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
-- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG` - Done
+- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode` - Done
+- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG` - Done
+- [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` - Done
+- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG` - Done
+- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG` - Done
 
 ## Medium
-- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
-- [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
-- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
-- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
-- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
-- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode` - Done
+- [Word Search](https://leetcode.com/problems/word-search/) `leetcode` - Done
+- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode` - Done
+- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode` - Done
+- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode` - Done
+- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode` - Done
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
