@@ -44,7 +44,7 @@
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode` - Done
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode` - Done
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode` - Done
-- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG` - Done (good question)
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
