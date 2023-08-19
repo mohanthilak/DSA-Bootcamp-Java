@@ -48,7 +48,7 @@
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG` - Done
-- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium) - Done
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode` - Done
 - [decode string](https://leetcode.com/problems/decode-string/)`leetcode` - Done
